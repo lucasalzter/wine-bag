@@ -1,2 +1,2 @@
-# wine-bag-3d-visualizador
+# wine-bag
 Visualizador de Embalagem
